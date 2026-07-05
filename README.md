@@ -187,6 +187,3 @@ The application consists of three main components:
 
 ---
 
-**For detailed setup instructions, see the provided documentation files.**
-
-🌍 Start analyzing the world with AI today!
