@@ -88,6 +88,9 @@ Total setup time: approximately 25 minutes (first time only)
 
 ---
 
+## Architecture
+![Satellite terrain classification workflow](./terrain_classifier_workflow_neon.svg)
+
 ## How It Works
 
 **Image Classification Pipeline**
